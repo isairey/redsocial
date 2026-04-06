@@ -1,7 +1,7 @@
 # 🌐 Red Social Académica
 
 <p align="center">
-  <img width="900" src="https://via.placeholder.com/1200x300.png?text=Red+Social+Academica" alt="Banner Red Social"/>
+  
 </p>
 
 <p align="center">
