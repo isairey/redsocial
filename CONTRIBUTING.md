@@ -1,29 +1,90 @@
-# Contribuições
+# 🤝 Contribuciones
 
-## Como contruir com o projeto?
+## 🚀 ¿Cómo contribuir al proyecto?
 
-A descrição detalhada de como começar a codificar e colaborar com o projeto pode ser encontrara em: https://ronneesley.github.io/redesocial
-Para contribuir é necessário apenas baixar o aplicativo *desktop* do GitHub e instalar os programas 
-necessários para codificação (NetBeans e MySQL).
-Além disso, após o primeiro *release* podem ser realizadas contribuições não técnicas relatando *bugs*, ou seja, trabalhando na etapa
-de testes do projeto.
+La guía completa para comenzar a colaborar y desarrollar en este proyecto se encuentra en:
 
-## Como configurar o ambiente para auxiliar na etapa de testes?
+🔗 https://ronneesley.github.io/redesocial
 
-Na página inicial do projeto no GitHub está disponível o arquivo **RedeSocialWeb.war** este arquivo contém todos os códigos 
-para funcionamento do sistema.
-Para rodá-lo é necessário um servidor de aplicação GlassFish 4+ que pode ser obtido em: https://javaee.github.io/glassfish/download
-Após a instalação do servidor GlassFish é necessário autenticar-se como administrador e realizar o *deploy* do arquivo *.war*.
+Para contribuir necesitas:
 
-Os *bugs* encontrados podem ser relatados nas **Issues** do projeto.
+- Descargar la aplicación de escritorio de GitHub  
+- Instalar las herramientas necesarias:
+  - NetBeans  
+  - MySQL  
 
-## Qual perfil profissional é adequado?
+Además, después del primer *release*, también puedes contribuir sin necesidad de programar, por ejemplo:
 
-Para trabalhar no projeto é necessário ter experiências relacionadas a programação ou um bom conhecimento na configuração de
-computadores para auxiliar na etapa de testes, pois ainda é necessário saber como instalar e configurar o servidor GlassFish.
+- 🐞 Reportando errores (*bugs*)  
+- 🧪 Participando en pruebas del sistema  
 
-## Onde queremos chegar?
+---
 
-Este projeto possui cunho didático, servindo como instrumento de aprendizado, no qual o indivíduo aprende a programar programando.
-Nosso intuito no primeiro *release* não é fazer frente a grandes ferramentas e nem inventar novos conceitos, mas sim conseguir 
-desenvolver um protótipo viável de uma rede social utilizando técnicas modernas de programação.
+## ⚙️ ¿Cómo configurar el entorno para pruebas?
+
+En la página principal del repositorio se encuentra el archivo:
+
+📦 **RedeSocialWeb.war**
+
+Este archivo contiene todo lo necesario para ejecutar el sistema.
+
+### Pasos:
+
+1. Descargar e instalar un servidor de aplicaciones:
+   - GlassFish 4 o superior  
+   - 🔗 https://javaee.github.io/glassfish/download  
+
+2. Iniciar sesión como administrador en GlassFish  
+
+3. Realizar el *deploy* del archivo `.war`  
+
+4. Ejecutar el sistema desde el servidor  
+
+---
+
+## 🐞 Reporte de errores
+
+Si encuentras errores durante el uso del sistema:
+
+- Repórtalos en la sección **Issues** del repositorio  
+- Incluye detalles para facilitar su solución  
+
+---
+
+## 👨‍💻 Perfil recomendado
+
+Para contribuir en el proyecto se recomienda:
+
+- Conocimientos en programación (Java preferentemente)  
+- Conocimientos básicos en configuración de servidores  
+- Capacidad para instalar y configurar herramientas como GlassFish  
+
+También puedes contribuir en pruebas si no eres desarrollador.
+
+---
+
+## 🎯 Objetivo del proyecto
+
+Este proyecto tiene un enfoque **didáctico**, diseñado como una herramienta de aprendizaje en programación.
+
+El objetivo principal es:
+
+- Aprender desarrollando software real  
+- Aplicar buenas prácticas de programación  
+- Construir un prototipo funcional de red social  
+
+No busca competir con plataformas grandes, sino servir como base educativa y práctica.
+
+---
+
+## 🙌 Cómo aportar
+
+1. Haz un fork del repositorio  
+2. Crea una rama:
+```bash
+git checkout -b feature/nueva-funcionalidad
+Realiza tus cambios:
+git commit -m "Nueva contribución"
+Sube tus cambios:
+git push origin feature/nueva-funcionalidad
+Abre un Pull Request 🚀
