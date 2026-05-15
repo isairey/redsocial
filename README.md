@@ -207,7 +207,7 @@ red-social/
 ## 1️⃣ Clonar repositorio
 
 ```bash
-git clone https://github.com/tu_usuario/red-social.git
+git clone https://github.com/isairey/red-social.git
 ```
 
 ---
