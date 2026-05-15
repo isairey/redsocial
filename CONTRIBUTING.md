@@ -2,9 +2,7 @@
 
 ## 🚀 ¿Cómo contribuir al proyecto?
 
-La guía completa para comenzar a colaborar y desarrollar en este proyecto se encuentra en:
 
-🔗 https://ronneesley.github.io/redesocial
 
 Para contribuir necesitas:
 
